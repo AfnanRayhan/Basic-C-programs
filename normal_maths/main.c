@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int a,b,sum,sub;
+    int a,b,sum,sub,af;
     double div,mul;
 
     printf("Enter the numbers a and b : ");
